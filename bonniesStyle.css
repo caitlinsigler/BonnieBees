@@ -1,0 +1,76 @@
+/*Creates a template style for every page in the program*/
+
+body {
+    background-color: #ffffb3;
+    font-family: Poppins;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px
+}
+form {
+    font-size:18px;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 48px;
+}
+
+h2 {
+    color: black;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+    color: black;
+}
+
+p {
+    color: black;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+}
+.button {
+    color: #404040;
+    font-family: Poppins;
+    font-size: 24px;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    font-family: Poppins;
+}
+button {
+    color: #404040;
+    font-family: Poppins;
+    font-size: 24px;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    font-family: Poppins;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 15px;
+    margin-left: 400px;
+    color: white;
+    text-align: right;
+    padding-right: 10px;
+}
+
+#searchbar{
+    font size: 18px;
+    font-family: Poppins;
+}
