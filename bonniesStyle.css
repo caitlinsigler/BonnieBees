@@ -39,13 +39,24 @@ p {
 }
 
 button {
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+    background: white;
+    border: 1px solid black;
     color: black;
-    font-family: Poppins;
-    font-size: 24px;
-    padding: 5px 10px;
-    font-size: 18px;
-    border-radius: 8px;
-    font-family: Poppins;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    position: relative;
+}
+button:hover {
+    background: lightgrey;
+}
+button:hover span {
+    color: lightgrey;
+    right: 20px;
 }
 
 .header {
@@ -66,6 +77,17 @@ a {
     text-decoration: none; 
 }
 
+div.header {
+    background-color: #ffffb3;
+}
+div.title{
+    background-color: #ffffb3;
+    margin-left: 30px;
+}
+div.mainText{
+    margin-left: 80px;
+    margin-right: 80px;
+}
 #searchbar{
     font size: 18px;
     font-family: Poppins;
