@@ -37,17 +37,9 @@ p {
     font-size: 18px;
     font-weight: bold;
 }
-.button {
-    color: black;
-    font-family: Poppins;
-    font-size: 24px;
-    padding: 5px 10px;
-    font-size: 18px;
-    border-radius: 8px;
-    font-family: Poppins;
-}
+
 button {
-    color: #404040;
+    color: black;
     font-family: Poppins;
     font-size: 24px;
     padding: 5px 10px;
@@ -68,6 +60,10 @@ button {
     color: white;
     text-align: right;
     padding-right: 10px;
+}
+
+a {
+    text-decoration: none; 
 }
 
 #searchbar{
