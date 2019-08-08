@@ -90,6 +90,7 @@ div.logo{
 }
 div.title{
     text-align: center;
+    padding-top: 5px;
 }
 div.mainText{
     margin-left: 80px;
