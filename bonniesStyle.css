@@ -14,7 +14,6 @@ form {
 h1 {
     color: black;
     font-family: Poppins;
-    font-size: 56px;
 }
 
 h2 {
@@ -82,6 +81,7 @@ div.title{
     background-color: #ffffb3;
     text-align: center;
     padding-top: 25px;
+    font-size: 56px;
 }
 div.mainText{
     margin-left: 80px;
