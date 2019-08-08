@@ -14,13 +14,12 @@ form {
 h1 {
     color: black;
     font-family: Poppins;
-    font-size: 48px;
+    font-size: 56px;
     padding-top: 25px;
 }
 
 h2 {
     color: black;
-    font
     font-size: 24px;
     font-weight: 500;
     line-height: 42px;
@@ -31,6 +30,8 @@ h3 {
     font-size: 18px;
     color: black;
     font-weight: 500;
+    line-height: 42px;
+    font-family: sans-serif;
 }
 
 p {
