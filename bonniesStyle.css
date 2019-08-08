@@ -2,7 +2,6 @@
 
 body {
     background-color: #ffffb3;
-    font-family: Poppins;
     padding-top: 25px;
     padding-left: 25px;
     padding-right: 25px;
@@ -21,8 +20,6 @@ h1 {
 
 h2 {
     color: black;
-    text-align: left;
-    font-family: Poppins;
     font-size: 24px;
 }
 
@@ -33,7 +30,6 @@ h3 {
 
 p {
     color: black;
-    font-family: Poppins;
     font-size: 18px;
     font-weight: bold;
 }
