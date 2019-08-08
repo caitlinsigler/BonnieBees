@@ -14,8 +14,6 @@ form {
 h1 {
     color: black;
     font-family: Poppins;
-    font-size: 56px;
-    padding-top: 25px;
 }
 
 h2 {
@@ -82,6 +80,8 @@ div.header {
 div.title{
     background-color: #ffffb3;
     text-align: center;
+    padding-top: 25px;
+    font-size: 56px;
 }
 div.mainText{
     margin-left: 80px;
@@ -89,6 +89,10 @@ div.mainText{
 }
 div.photo{
     text-align: center;
+}
+div.home{
+    text-align: left;
+    font-size: 48px;
 }
 #searchbar{
     font size: 18px;
