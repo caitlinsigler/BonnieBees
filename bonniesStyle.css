@@ -14,13 +14,13 @@ form {
 h1 {
     color: black;
     font-family: Poppins;
+    font-size: 56px;
 }
 
 h2 {
     color: black;
-    font-size: 24px;
-    font-weight: 500;
-    font-family: sans-serif;
+    font-family: Poppins;
+    font-size: 36px;
 }
 
 h3 {
@@ -81,7 +81,6 @@ div.title{
     background-color: #ffffb3;
     text-align: center;
     padding-top: 25px;
-    font-size: 56px;
 }
 div.mainText{
     margin-left: 80px;
@@ -92,7 +91,6 @@ div.photo{
 }
 div.home{
     text-align: left;
-    font-size: 40px;
 }
 #searchbar{
     font size: 18px;
