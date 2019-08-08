@@ -88,6 +88,9 @@ div.mainText{
     margin-left: 80px;
     margin-right: 80px;
 }
+div.photo{
+    text-align: center;
+}
 #searchbar{
     font size: 18px;
     font-family: Poppins;
