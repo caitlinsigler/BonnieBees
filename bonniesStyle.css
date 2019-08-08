@@ -83,10 +83,13 @@ a {
 div.header {
     background-color: #ffffb3;
 }
-div.title{
+div.logo{
     background-color: #ffffb3;
     text-align: center;
     padding-top: 25px;
+}
+div.title{
+    text-align: center;
 }
 div.mainText{
     margin-left: 80px;
