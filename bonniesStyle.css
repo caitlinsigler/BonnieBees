@@ -46,7 +46,8 @@ button {
     display: inline-block;
     font-weight: 500;
     position: relative;
-    position: relative;
+    color: white;
+    text-align: right;
 }
 button:hover {
     background: lightgrey;
@@ -65,8 +66,6 @@ button:hover span {
     margin-bottom: 100px;
     margin-right: 15px;
     margin-left: 400px;
-    color: white;
-    text-align: right;
     padding-right: 10px;
 }
 
