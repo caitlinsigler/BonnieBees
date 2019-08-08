@@ -34,7 +34,7 @@ h4 {
     color: black;
     font-weight: 500;
     font-family: sans-serif;
-    padding-left:5em
+    text-align: center;
 }
 
 p {
@@ -90,7 +90,7 @@ div.logo{
 }
 div.title{
     text-align: center;
-    padding-top: 5px;
+    padding-top: 0px;
 }
 div.mainText{
     margin-left: 80px;
@@ -101,6 +101,7 @@ div.photo{
 }
 div.home{
     text-align: left;
+    padding-left: 20px
 }
 #searchbar{
     font size: 18px;
